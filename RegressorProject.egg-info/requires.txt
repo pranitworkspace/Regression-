@@ -1,6 +1,5 @@
+flask
+matplotlib
 numpy
 pandas
-matplotlib
-flask
 scikit-learn
--e .
